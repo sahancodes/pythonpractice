@@ -1,26 +1,28 @@
-readme_md = """# Python Practice 🐍
+#### Python Coding Practice 🐍
 
-This repository contains small Python exercises and practice projects.  
-The goal is to build up Python skills step by step through coding challenges, notes, and tests.
+This repository contains Python practice exercises organized by topic.  
+The goal is to improve skills step by step through algorithms, OOP, async programming, refactoring, and more.
 
 ---
 
 ## 📂 Project Structure
 
-pythonpractice/
-├── exercises/          # Individual exercises
-│   ├── 01_basics/
-│   │   ├── main.py
-│   │   ├── test_main.py
-│   │   └── notes.md
-│   ├── 02_loops/
-│   └── ...
-├── utils/              # Reusable helper functions
-├── data/               # Input/output data files
+CODING_PRACTICE/
+├── algorithm_challenges/ — coding challenge solutions
+├── asyncio_sysprogram/ — async & system programming practice
+├── datastructs_algorithms/ — data structures & algorithms
+├── funcs_itertools/ — functions & itertools exercises
+├── internals_bestpractices/ — Python internals & best practices
+├── miniprojs/ — mini projects
+├── oop/ — object-oriented programming exercises
+├── python_fundamentals/ — basics & foundations
+├── refactoring/ — refactoring exercises
+├── test_performance/ — performance testing & benchmarking
+├── .venv/ — virtual environment
 ├── .gitignore
-├── pyproject.toml       # Config for Black & Ruff
-├── requirements.txt     # Python dependencies
-└── README.md
+├── pyproject.toml — Black & Ruff configuration
+├── requirements.txt — dependencies
+└── README.md — this file
 
 ---
 
@@ -42,15 +44,15 @@ pythonpractice/
 
 ---
 
-## ▶️ How to Run an Exercise
+## ▶️ How to Run
 
-Each exercise has its own folder (for example `exercises/01_basics`).  
+Each folder contains focused exercises or projects. For example:  
 
-Run directly:  
-python exercises/01_basics/main.py  
+Run a script:  
+python python_fundamentals/example.py  
 
 Run tests:  
-pytest exercises/01_basics
+pytest algorithm_challenges
 
 ---
 
@@ -65,17 +67,18 @@ pytest exercises/01_basics
 
 ## 📌 Goals
 
-- Practice Python through small, focused exercises.  
+- Practice Python across different areas (fundamentals → advanced).  
+- Build reusable code and mini projects.  
 - Learn clean coding practices with tests, linting, and formatting.  
-- Keep all work organized and version-controlled with Git & GitHub.  
+- Explore performance testing, async, and Python internals.  
 
 ---
 
 ## 🚀 Next Steps
 
 - Add more exercises regularly.  
-- Expand `utils/` with reusable functions.  
-- Explore Jupyter notebooks for data science practice.  
+- Expand `miniprojs/` into larger applications.  
+- Continue experimenting with new Python features.  
 
 ---
 
