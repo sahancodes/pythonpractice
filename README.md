@@ -7,22 +7,22 @@ The goal is to improve skills step by step through algorithms, OOP, async progra
 
 ## 📂 Project Structure
 
-CODING_PRACTICE/
-├── algorithm_challenges/ — coding challenge solutions
-├── asyncio_sysprogram/ — async & system programming practice
-├── datastructs_algorithms/ — data structures & algorithms
-├── funcs_itertools/ — functions & itertools exercises
-├── internals_bestpractices/ — Python internals & best practices
-├── miniprojs/ — mini projects
-├── oop/ — object-oriented programming exercises
-├── python_fundamentals/ — basics & foundations
-├── refactoring/ — refactoring exercises
-├── test_performance/ — performance testing & benchmarking
-├── .venv/ — virtual environment
-├── .gitignore
-├── pyproject.toml — Black & Ruff configuration
-├── requirements.txt — dependencies
-└── README.md — this file
+CODING_PRACTICE/  
+├── algorithm_challenges/ — coding challenge solutions  
+├── asyncio_sysprogram/ — async & system programming practice  
+├── datastructs_algorithms/ — data structures & algorithms  
+├── funcs_itertools/ — functions & itertools exercises  
+├── internals_bestpractices/ — Python internals & best practices  
+├── miniprojs/ — mini projects  
+├── oop/ — object-oriented programming exercises  
+├── python_fundamentals/ — basics & foundations  
+├── refactoring/ — refactoring exercises  
+├── test_performance/ — performance testing & benchmarking  
+├── .venv/ — virtual environment  
+├── .gitignore  
+├── pyproject.toml — Black & Ruff configuration  
+├── requirements.txt — dependencies  
+└── README.md — this file  
 
 ---
 
