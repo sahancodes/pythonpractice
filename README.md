@@ -1,4 +1,4 @@
-#### Python Coding Practice 🐍
+# Python Coding Practice 🐍
 
 This repository contains Python practice exercises organized by topic.  
 The goal is to improve skills step by step through algorithms, OOP, async programming, refactoring, and more.
